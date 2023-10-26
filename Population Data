@@ -1,0 +1,22 @@
+---
+title: "Data Description"
+output: html_document
+date: "2023-10-24"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+ID Race- Is the race of the person who was tested in this model
+ID Ethnicity- Is the ethnic background of the person who was tested in this model
+ID Year- This is the year that the data is based off of
+Year- The year that the data is based off of
+Hispanic Population Moe- Margin of Error for the hispanic population prediction
+Population-The estimated population for the town featured
+Share- Total population living in the area
+Overview- In this data it shows that hispanic population is a 1.32 mean of the 7.14 share population. It also shows that the data set is based off of the year 2021
+List of Authors-DataUSA, US Census Bureau
+Author of Codebook- Zach Juarez
+Purpose- To show the population of Safford, Az for the year of 2021
